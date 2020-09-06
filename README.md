@@ -1,6 +1,7 @@
 ## Profile
-AndroidAppDeveloper
-22 y/o
+- Name: Yutaro M
+- Job: AndroidAppDeveloper
+- age: 22
 
 ## Status
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuutarou22)](https://github.com/ryo-ma/github-profile-trophy)
